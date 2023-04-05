@@ -35,7 +35,9 @@
 
 # Graphs
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_temp.png)
+* 
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_rain.png)
+* 
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_humidity.png)
 * 
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_solarenergy.png)
