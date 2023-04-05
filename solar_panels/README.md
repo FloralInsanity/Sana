@@ -25,7 +25,7 @@
 # Cleaning Dataset
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/uncleaned_dataset.png)
 * The original dataset had 38 columns and 70,000 rows
-* 
+
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/cleaned_dataset.png)
 * Removed rows with missing values
 * Removed columns unnecessary for analysis
@@ -36,10 +36,13 @@
 # Graphs
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_temp.png)
 * Mapping site to temperature
+
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_rain.png)
 * Mapping site to rain
+
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_humidity.png)
 * Mapping site to humidity
+
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_solarenergy.png)
 * Mapping site to solar energy yield
 
