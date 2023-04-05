@@ -35,12 +35,13 @@
 
 # Graphs
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_temp.png)
-* 
+* Mapping site to temperature
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_rain.png)
-* 
+* Mapping site to rain
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_humidity.png)
-* 
+* Mapping site to humidity
 ![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_solarenergy.png)
+* Mapping site to solar energy yield
 
 # Conclusions
 * Energy yield was between 65 and 155 watts per half hour. 130-310 watts/hour
