@@ -23,20 +23,20 @@
 * Source: UK Power Networks
 
 # Cleaning Dataset
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/uncleaned_dataset.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/uncleaned_dataset.png)
 * The original dataset had 38 columns and 70,000 rows
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/cleaned_dataset.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/cleaned_dataset.png)
 * Removed rows with missing values
 * Removed columns unnecessary for analysis
 
 # Summary of Data
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/summary_of_data.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/summary_of_data.png)
 
 # Graphs
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_temp.png)
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_rain.png)
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_humidity.png)
-[](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_solarenergy.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_temp.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_rain.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_humidity.png)
+![](https://github.com/FloralInsanity/Sana_Portfolio/blob/main/solar_panels/images/site_solarenergy.png)
 
 # Conclusions
 * Energy yield was between 65 and 155 watts per half hour. 130-310 watts/hour
