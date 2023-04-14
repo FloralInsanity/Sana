@@ -87,7 +87,7 @@ def display(df):
 # loads already cleaned data
 @st.cache_data
 def load_data():
-    df = pd.read_excel('/main/Solar_Panels/solar_data.xlsx', sheet_name = 0)
+    df = pd.read_excel('/solar_data.xlsx', sheet_name = 0)
     # Filter the dataset to create a sub dataset with rows that contain the site keyword 
     df_er = df[df['Site'].str.contains('Easthill Road')]
     df_ec = df[df['Site'].str.contains('Elm Crescent')]
