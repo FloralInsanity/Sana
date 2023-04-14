@@ -52,11 +52,6 @@ def display(df):
             if count >= 6:
                 count = 0
     # temp: creating the table
-    #del after 
-    df_copy = df_er.copy()
-    #del after 
-    df_copy = df_copy.apply(lambda x: pd.to_numeric(x, errors='coerce') if x.name not in ['Site', 'Date', 'Month', 'Time', 'Hour', 'WindDir', 'HiDir', 'THSWIndex'] else x)
-    
     df_final = df_copy[['Date', 'Time', 'SolarRad', 'SolarEnergy', 'TempOut', 'InTemp', 
                         'OutHum', 'InHum', 'DewPt', 'InDew', 'WindSpeed', 'WindRun', 
                         'HeatIndex', 'Rain']]
@@ -92,7 +87,7 @@ def display(df):
 # loads already cleaned data
 @st.cache_data
 def load_data():
-    df = pd.read_excel('FloralInsanity/Sana/Solar_Panels/solar_data.xlsx', sheet_name = 0)
+    df = pd.read_excel('/main/Solar_Panels/solar_data.xlsx', sheet_name = 0)
     # Filter the dataset to create a sub dataset with rows that contain the site keyword 
     df_er = df[df['Site'].str.contains('Easthill Road')]
     df_ec = df[df['Site'].str.contains('Elm Crescent')]
