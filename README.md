@@ -1,4 +1,4 @@
-# Sana_Portfolio
+# Sana
 My programming and data science projects (:
 
 # [Project 1: Analysing Solar Panel Data](https://github.com/FloralInsanity/Sana_Portfolio/tree/main/solar_panels)
