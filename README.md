@@ -1,8 +1,9 @@
 # Sana
 My programming and data science projects (:
 
-# [Project 1: Analysing Solar Panel Data](https://github.com/FloralInsanity/Sana_Portfolio/tree/main/solar_panels)
-* Used the programming language R to analyse 70,000 rows of data provided by UK Power Networks.
-* Determined energy yield per hour.
-* Compared the yields of 5 locations based on the factors: temperature, humidity and rain.
-* Formed conclusions about the data.
+# [Project 1: Creating a Dashboard Using Solar Panel Data](https://github.com/FloralInsanity/Sana_Portfolio/tree/main/Solar_Panels)
+* Used Python to create a dashboard using solar panel data provided by UK Power Networks.
+* 5 dashboards, one for each site, with information about yield per half hour
+* A comparison to the mean of each day.
+* Hosted on Streamlit:
+* https://floralinsanity-sana-solar-panelsdashboard-6bahju.streamlit.app/
